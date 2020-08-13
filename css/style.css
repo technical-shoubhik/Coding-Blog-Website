@@ -1,0 +1,40 @@
+.heading3-shadow{
+    text-shadow: 0px 0px 15px black;
+}
+.para-shadow{
+    text-shadow: 0px 0px 10px black;
+}
+
+.magzine-title{
+    font-size: 3rem;
+    
+}
+
+footer{
+    background-color: #545b62;
+    color: white;
+    margin: 0;
+    padding: 10px;
+    max-width: 100%;
+}
+
+footer p{
+    margin: 5px 15px;
+}
+
+footer a{
+    color: rgb(0, 191, 255);
+    margin: 5px 15px;
+}
+
+footer a:hover{
+    color: rgb(0, 166, 221);
+}
+
+.feedback{
+    text-align: center;
+}
+
+.feedback-para{
+    text-align: justify;
+}
